@@ -41,16 +41,16 @@
 }
 
 .information .job::before {
-    background-image: url('/HTML-CSS/Portifolio/assets/img/icons/job.svg');
+    background-image: url('/assets/img/icons/job.svg');
 }
 .information .location::before {
-    background-image: url('/HTML-CSS/Portifolio/assets/img/icons/location.svg');
+    background-image: url('/assets/img/icons/location.svg');
 }
 .information .contato::before {
-    background-image: url('/HTML-CSS/Portifolio/assets/img/icons/contato.svg');
+    background-image: url('/assets/img/icons/contato.svg');
 }
 .information .email::before {
-    background-image: url('/HTML-CSS/Portifolio/assets/img/icons/email.svg');
+    background-image: url('/assets/img/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px) {
